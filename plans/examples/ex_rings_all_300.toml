@@ -1,0 +1,12 @@
+budget = 300
+[rules]
+min_spacing_m = 40
+seed = 1
+[[zones]]
+name = "all"
+n = 300
+pattern = "ring"
+radius_m = 600
+ring_step_m = 350
+n_rings = 4
+spacing_m = 45

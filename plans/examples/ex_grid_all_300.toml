@@ -1,0 +1,10 @@
+budget = 300
+[rules]
+min_spacing_m = 40
+seed = 1
+[[zones]]
+name = "all"
+n = 300
+pattern = "tri_grid"
+spacing_m = 170
+orient_deg = 0

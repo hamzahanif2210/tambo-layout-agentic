@@ -1,0 +1,58 @@
+budget = 300
+
+[[zones]]
+orient_deg = 28.7
+name = "east_facing_high_north"
+pattern = "tri_grid"
+spacing_m = 171.2
+n = 18
+[[zones]]
+orient_deg = 0.0
+name = "east_facing_high_south"
+pattern = "cluster"
+spacing_m = 181.7
+radius_m = 363.4
+n = 24
+[[zones]]
+orient_deg = 57.6
+name = "east_facing_low_north"
+pattern = "contour"
+spacing_m = 94.0
+row_step_m = 47.0
+n = 32
+[[zones]]
+orient_deg = 32.0
+name = "east_facing_mid_north"
+pattern = "contour"
+spacing_m = 197.0
+row_step_m = 98.5
+n = 38
+[[zones]]
+orient_deg = 16.5
+name = "east_facing_mid_south"
+pattern = "tri_grid"
+spacing_m = 101.0
+n = 63
+[[zones]]
+orient_deg = 60.0
+name = "north_facing_high"
+pattern = "tri_grid"
+spacing_m = 61.9
+n = 55
+[[zones]]
+orient_deg = 37.5
+name = "south_facing_high"
+pattern = "tri_grid"
+spacing_m = 75.5
+n = 45
+[[zones]]
+orient_deg = 5.4
+name = "south_facing_mid"
+pattern = "contour"
+spacing_m = 61.0
+row_step_m = 30.5
+n = 25
+
+[rules]
+min_spacing_m = 40.0
+seed = 1

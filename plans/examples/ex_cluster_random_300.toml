@@ -1,0 +1,13 @@
+budget = 300
+[rules]
+min_spacing_m = 40
+seed = 7
+[[zones]]
+name = "east_facing_low_south"
+n = 150
+pattern = "cluster"
+radius_m = 350
+[[zones]]
+name = "east_facing_high_north"
+n = 150
+pattern = "random"

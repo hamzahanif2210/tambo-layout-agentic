@@ -1,0 +1,14 @@
+budget = 300
+[rules]
+min_spacing_m = 50
+seed = 1
+[[zones]]
+name = "east_facing_mid_south"
+n = 150
+pattern = "contour"
+spacing_m = 90
+[[zones]]
+name = "east_facing_mid_north"
+n = 150
+pattern = "contour"
+spacing_m = 90

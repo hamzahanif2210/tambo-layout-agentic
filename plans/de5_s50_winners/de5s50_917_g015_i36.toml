@@ -1,0 +1,38 @@
+budget = 917
+
+[[zones]]
+orient_deg = 47.0
+name = "east_facing_high_north"
+pattern = "random"
+spacing_m = 95.1
+n = 224
+[[zones]]
+orient_deg = 56.8
+name = "east_facing_high_south"
+pattern = "random"
+spacing_m = 250.0
+n = 235
+[[zones]]
+orient_deg = 54.1
+name = "east_facing_low_south"
+pattern = "tri_grid"
+spacing_m = 100.4
+n = 215
+[[zones]]
+orient_deg = 0.0
+name = "east_facing_mid_south"
+pattern = "contour"
+spacing_m = 107.8
+row_step_m = 53.9
+n = 185
+[[zones]]
+orient_deg = 17.1
+name = "north_facing_high"
+pattern = "contour"
+spacing_m = 40.0
+row_step_m = 20.0
+n = 58
+
+[rules]
+min_spacing_m = 40.0
+seed = 1

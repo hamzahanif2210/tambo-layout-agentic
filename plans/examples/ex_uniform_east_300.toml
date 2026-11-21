@@ -1,0 +1,40 @@
+budget = 300
+[rules]
+min_spacing_m = 50
+seed = 1
+[[zones]]
+name = "east_facing_low_south"
+n = 50
+pattern = "tri_grid"
+spacing_m = 110
+orient_deg = 0
+[[zones]]
+name = "east_facing_low_north"
+n = 50
+pattern = "tri_grid"
+spacing_m = 110
+orient_deg = 0
+[[zones]]
+name = "east_facing_mid_south"
+n = 50
+pattern = "tri_grid"
+spacing_m = 110
+orient_deg = 0
+[[zones]]
+name = "east_facing_mid_north"
+n = 50
+pattern = "tri_grid"
+spacing_m = 110
+orient_deg = 0
+[[zones]]
+name = "east_facing_high_south"
+n = 50
+pattern = "tri_grid"
+spacing_m = 110
+orient_deg = 0
+[[zones]]
+name = "east_facing_high_north"
+n = 50
+pattern = "tri_grid"
+spacing_m = 110
+orient_deg = 0

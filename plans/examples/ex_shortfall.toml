@@ -1,0 +1,14 @@
+budget = 200
+[rules]
+min_spacing_m = 100
+seed = 1
+[[zones]]
+name = "south_facing_mid"
+n = 400
+pattern = "tri_grid"
+spacing_m = 60
+[[zones]]
+name = "no_such_zone"
+n = 10
+pattern = "tri_grid"
+spacing_m = 60

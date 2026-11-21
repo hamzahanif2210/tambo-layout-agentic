@@ -1,0 +1,27 @@
+θcut scan on SELECT split, reference layout = official125 (θ = reco zenith of travel direction)
+  θcut= 60.0  S=0.0002812/yr  B=4.424e+07/yr (nB=0, floor)  Z10=0.000
+  θcut= 62.5  S=0.01207/yr  B=4.424e+07/yr (nB=0, floor)  Z10=0.000
+  θcut= 65.0  S=0.01216/yr  B=4.424e+07/yr (nB=0, floor)  Z10=0.000
+  θcut= 67.5  S=0.01305/yr  B=4.424e+07/yr (nB=0, floor)  Z10=0.000
+  θcut= 70.0  S=0.01318/yr  B=4.424e+07/yr (nB=0, floor)  Z10=0.000
+  θcut= 72.5  S=0.01399/yr  B=4.424e+07/yr (nB=0, floor)  Z10=0.000
+  θcut= 75.0  S=0.01496/yr  B=4.424e+07/yr (nB=0, floor)  Z10=0.000
+  θcut= 77.5  S=0.0162/yr  B=4.424e+07/yr (nB=0, floor)  Z10=0.000
+  θcut= 80.0  S=0.01742/yr  B=4.18e+04/yr (nB=1)  Z10=0.000
+  θcut= 82.5  S=0.03976/yr  B=4.18e+04/yr (nB=1)  Z10=0.001
+  θcut= 85.0  S=0.04563/yr  B=1.263e+07/yr (nB=2)  Z10=0.000
+  θcut= 87.5  S=0.221/yr  B=1.263e+07/yr (nB=2)  Z10=0.000
+  θcut= 90.0  S=0.2341/yr  B=1.293e+07/yr (nB=3)  Z10=0.000
+  θcut= 92.5  S=0.2426/yr  B=1.293e+07/yr (nB=3)  Z10=0.000
+  θcut= 95.0  S=0.2719/yr  B=1.293e+07/yr (nB=3)  Z10=0.000
+  θcut= 97.5  S=0.2795/yr  B=1.38e+07/yr (nB=4)  Z10=0.000
+  θcut=100.0  S=0.2948/yr  B=2.054e+07/yr (nB=6)  Z10=0.000
+  θcut=102.5  S=0.3015/yr  B=2.061e+08/yr (nB=10)  Z10=0.000
+  θcut=105.0  S=0.304/yr  B=2.202e+08/yr (nB=14)  Z10=0.000
+  θcut=107.5  S=0.3053/yr  B=2.267e+08/yr (nB=24)  Z10=0.000
+  θcut=110.0  S=0.3072/yr  B=2.549e+08/yr (nB=41)  Z10=0.000
+  θcut=112.5  S=0.3079/yr  B=2.791e+08/yr (nB=59)  Z10=0.000
+  θcut=115.0  S=0.3079/yr  B=3.601e+08/yr (nB=81)  Z10=0.000
+  θcut=117.5  S=0.3079/yr  B=3.753e+08/yr (nB=89)  Z10=0.000
+  θcut=120.0  S=0.3083/yr  B=6.437e+08/yr (nB=98)  Z10=0.000
+chosen θcut = 82.5 deg
